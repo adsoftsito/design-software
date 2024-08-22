@@ -34,6 +34,7 @@ class VehiclePrototype {
 
   Vehicle clone() {
     // Create a new instance of the same type as the original
+    print(_vehicle.runtimeType);
     return _vehicle.runtimeType == Car ? Car() : Truck();
   }
 }
@@ -41,13 +42,14 @@ class VehiclePrototype {
 
 void main() {
   // Create an initial Car prototype
-  VehiclePrototype carPrototype = VehiclePrototype(Car());
+  VehiclePrototype carPrototype   = VehiclePrototype(Car());
+  VehiclePrototype truckPrototype = VehiclePrototype(Truck());
 
   // Clone the prototype to create a new Car
   Vehicle newCar = carPrototype.clone();
 
   // Clone the prototype again to create a new Truck
-  Vehicle newTruck = carPrototype.clone();
+  Vehicle newTruck = truckPrototype.clone();
 
   // Verify the clones' behavior
   newCar.drive(); // Output: Driving a car
