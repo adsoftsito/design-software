@@ -10,3 +10,6 @@ Slides [w2](https://docs.google.com/presentation/d/1i7DL14V6ZiJEtfSVjhX3-7sgu2sB
 
 # Week 3
 Slides [w3](https://docs.google.com/presentation/d/1XClb45QRSSPztLCIyMbAdfwjdqsp2Wf1leLT2Qq8EHY/edit?usp=sharing)
+
+# Week 4
+Slides [w4](https://docs.google.com/presentation/d/1rP8i5KACMJPXOm7TygaIu9D6oF0Pjb9TJYoINu91BZc/edit?usp=sharing)
