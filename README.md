@@ -20,3 +20,6 @@ Slides [w5](https://docs.google.com/presentation/d/1M3LQZPz6FSjGS1cWXz-E1ZnZgV6V
 # Week 6
 Slides [w6](https://docs.google.com/presentation/d/1yDFgq0AS9bfBE1sJpf0wutcrKozNomb3UZC2UIRLAgI/edit?usp=sharing)
 
+# Week 7
+Slides [w7](https://docs.google.com/presentation/d/12Xeg3M0uulhZeu024gVFM3QELqd8PIhnNJr-5nmYzv4/edit?usp=sharing)
+
