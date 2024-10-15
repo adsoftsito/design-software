@@ -23,3 +23,5 @@ Slides [w6](https://docs.google.com/presentation/d/1yDFgq0AS9bfBE1sJpf0wutcrKozN
 # Week 7
 Slides [w7](https://docs.google.com/presentation/d/12Xeg3M0uulhZeu024gVFM3QELqd8PIhnNJr-5nmYzv4/edit?usp=sharing)
 
+# Week 8
+Slides [w8](https://docs.google.com/presentation/d/1ZWMfaTiIDDH8YFxISTaj9-TR2H0esDdVidHd2nLjkII/edit?usp=sharing)
